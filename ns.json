@@ -1,6 +1,6 @@
 {
     "resolutions": [
-        "https://192.168.1.118/ns/",
+        "https://192.168.1.118:8443/",
         "https://fvns.frogverse.us.kg/"
     ]
 }
